@@ -1,0 +1,6 @@
+#include  <stdio.h>
+void main()
+{
+console.writeline('Hello world');
+console.readkey()
+}
